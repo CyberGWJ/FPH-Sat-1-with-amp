@@ -8,5 +8,7 @@ There is an Assembly Guide in the DOCs folder.
 
 Notes: 
 Currently there are two slicer files (Bambu SLicer and Orca Slicer) for multi-filament printers.  A version will be available for single filament printers shortly.
+
 The LED ring has special print settings to improve the LED display.  If copying the files be sure to review the settings.
 
+There are mounts for the LD2450 and Wi-Fi antenna.  This for the new hat version with ports on the bottom of the board.
