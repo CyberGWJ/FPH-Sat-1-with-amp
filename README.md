@@ -15,7 +15,7 @@ There are mounts for the LD2450 and Wi-Fi antenna.  This for the new hat version
 
 <img src="images/amp small.png" alt="Amp Case">
 
-![Amp Wired](images/components wired.pgn?raw=true "Wired")
+<img src="images/components wired.png" alt="Wired">
 
-![LD2450 - Wi-Fi](images/LD2450 - wifi.png?raw=true "LD2450 & Wi-Fi")
+<img src="images/LD2450 - wifi.png" alt="LD2450 & Wi-Fi">
 
