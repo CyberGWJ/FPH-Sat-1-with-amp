@@ -4,7 +4,7 @@ The design uses a slide in amp PCB base so a different amp PCB could be used wit
 
 All STL and STEP files are posted.  
 
-There is an Assembly Guide in the DOCs folder.
+There is an Assembly Guide in the Docs folder.
 
 Notes: 
 Currently there are two slicer files (Bambu Slicer and Orca Slicer) for multi-filament printers.  A version will be available for single filament printers shortly.
