@@ -13,9 +13,11 @@ The LED ring has special print settings to improve the LED display.  If copying 
 
 There are mounts for the LD2450 and Wi-Fi antenna.  This for the new hat version with ports on the bottom of the board.
 
+UPDATE 3/20/2026
+Added TPA3116D2 PCB, 3.5mm shielded audio cable, updated, slicer files, updated Assembly Guide, and reorganized file.
+
 <img src="images/amp small.png" alt="Amp Case">
 
 <img src="images/components wired.png" alt="Wired">
 
 <img src="images/LD2450 - wifi.png" alt="LD2450 & Wi-Fi">
-
