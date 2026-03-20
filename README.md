@@ -16,6 +16,8 @@ There are mounts for the LD2450 and Wi-Fi antenna.  This for the new hat version
 UPDATE 3/20/2026
 Added TPA3116D2 PCB, 3.5mm shielded audio cable, updated slicer files and Assembly Guide, and reorganized files.
 
+Recommend using PCBs with an audio jack and shielded cable.. 
+
 <img src="images/amp small.png" alt="Amp Case">
 
 <img src="images/components wired.png" alt="Wired">
